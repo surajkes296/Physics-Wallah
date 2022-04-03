@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_bg_radius">20dp</dimen>
+    <dimen name="card_corner_rad">16dp</dimen>
+    <dimen name="actionbar_corner_rad">20dp</dimen>
+</resources>
